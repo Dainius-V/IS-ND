@@ -1,5 +1,5 @@
-# Intelektualios sistemos ND1
-
+## Intelektualios sistemos ND1 Dainius Varna EKSfm20
+https://github.com/Dainius-V/IS-ND1/ 
 # Reikalingos programos:
 # Visual Studio Express:
 https://visualstudio.microsoft.com/vs/express/
