@@ -7,7 +7,7 @@ https://visualstudio.microsoft.com/vs/express/
 https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
 # cuDNN 7.6 for CUDA 10.1:
 https://developer.nvidia.com/rdp/cudnn-download
-# Anaconda (Jupyter):
+# Anaconda (Jupyter) su Python 3.8:
 https://www.anaconda.com/products/individual
 
 # Anaconda prompt:
