@@ -1,4 +1,4 @@
-# Intelektualios sistemos ND
+# Intelektualios sistemos ND1
 
 # Reikalingos programos:
 # Visual Studio Express:
